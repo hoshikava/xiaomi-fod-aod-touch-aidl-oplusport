@@ -124,6 +124,6 @@ you can make this props inbult to settings toggle/your apk
 
 **[@hoshikv](https://t.me/hoshikv)** (カヴェ kv) — give credits if you using this as FOD+AOD+DT2W fix.
 
-**using this for paid roms not allowed except you have permissions from me*
+**using this for paid roms not allowed except you have permissions from me**
 
 Report to me on **[@kvportschat](https://t.me/kvelementarychat)** if you found bugs
