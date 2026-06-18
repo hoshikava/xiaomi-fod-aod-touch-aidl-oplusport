@@ -79,7 +79,7 @@ invoke-static {}, Lhoshi/kvfod;->initkv()V
 .end method
 ```
 
-Then merge the provided `classes*.dex` into the SystemUI APK, recompile, sign, and push.
+Then merge the provided `classes*.dex` into the SystemUI if last dex is classes8.dex add it as classes9.dex
 
 **3. add to build.prop**
 
