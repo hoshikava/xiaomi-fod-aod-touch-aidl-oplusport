@@ -43,7 +43,7 @@ Permissions `0644 0 0`, path:
 
 **2. Patch SystemUI**
 
-Decompile SystemUI and add the invoke/sput lines based on `PATCH.smali`.
+Decompile SystemUI and add the invoke/sput lines.
 
 `SystemUIApplication` OnCreate() method → add this invoke static before `return-void`:
 
