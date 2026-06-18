@@ -67,7 +67,7 @@ invoke-static {}, Lhoshi/kvfod;->initkv()V
 ...
 ```
 
-`OnScreenFingerprintUIMech` constructor <init> method → add before `return-void`:
+`OnScreenFingerprintUIMech` constructor init method → add before `return-void`:
 
 ```smali
     sput-object p0, Lhoshi/kvfod;->fpInstance:Lcom/oplus/systemui/biometrics/finger/udfps/OnScreenFingerprintUiMech;
