@@ -29,12 +29,11 @@ Tg Channel: [@kvports](https://t.me/kvports)
 |---|---|
 | `libhoshikv.so` | Prebuilt native library |
 | `classes*.dex` | `hoshi.kvfod` bridge class |
-| `PATCH.smali` | Smali patch for SystemUI |
 | `vendor_sepolicy.cil` | SELinux rules |
 
 ## Installation
 
-**1. Push the library**
+**1. Add the library**
 
 Permissions `0644 0 0`, path:
 
