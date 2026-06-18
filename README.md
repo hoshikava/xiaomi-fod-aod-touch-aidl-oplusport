@@ -121,7 +121,7 @@ Example usage:
 ```bash
 setprop persist.sys.kv* 1/0
 ```
-you can make this props inbult to settings toggle/your apk
+you can make this props inbuit to settings toggle/your apk
 
 ## Notes
 
