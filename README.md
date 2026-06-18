@@ -45,7 +45,7 @@ Permissions `0644 0 0`, path:
 
 Decompile SystemUI and add the invoke/sput lines based on `PATCH.smali`.
 
-`SystemUIApplication.onCreate()` → add before `return-void`:
+`SystemUIApplication` OnCreate() method → add this invoke static before `return-void`:
 
 ```smali
 invoke-static {}, Lhoshi/kvfod;->initkv()V
