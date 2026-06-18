@@ -68,7 +68,7 @@ invoke-static {}, Lhoshi/kvfod;->initkv()V
 ...
 ```
 
-`OnScreenFingerprintUIMech` constructor → add before `return-void`:
+`OnScreenFingerprintUIMech` constructor <init> method → add before `return-void`:
 
 ```smali
     sput-object p0, Lhoshi/kvfod;->fpInstance:Lcom/oplus/systemui/biometrics/finger/udfps/OnScreenFingerprintUiMech;
@@ -122,4 +122,5 @@ setprop persist.sys.kv* 1/0
 
 ## Notes
 
-**[@hoshikv](https://t.me/kvports)** (カヴェ kv) — credit required if you use this.
+**[@hoshikv](https://t.me/hoshikv)** (カヴェ kv) — credit required if you use this.
+**report to me on [@kvportschat](https://t.me/kvelementarychat)** if you found bugs
