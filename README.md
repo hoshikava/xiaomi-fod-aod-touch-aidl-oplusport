@@ -139,7 +139,7 @@ you can make this props inbuit to settings toggle/your apk
 
 ## Notes
 
-**[@hoshikv](https://t.me/hoshikv) (カヴェ kv) — you should give credits if you using this, as FOD+AOD+DT2W fix, put this on somewhere on your changelogs or credits page.**
+**[@hoshikv](https://t.me/hoshikv) (カヴェ kv) — you should give credits if you using this, as FOD+AOD+DT2W/SOFOD+AOD+FODANIM fix, put this on somewhere on your changelogs or credits page.**
 
 **using this for paid roms is not allowed except you have permissions from me**
 
