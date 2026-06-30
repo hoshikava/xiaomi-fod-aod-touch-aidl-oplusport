@@ -17,6 +17,7 @@ Tg Channel: [@kvports](https://t.me/kvports)
 
 - **FOD** — fingerprint including fingerprint animation
 - **SOFOD** — working screen off fod on doze_suspend/doze_brightness
+- - **FODANIM** — oplus fodanim connected to xiaomi fingerdown
 - **AOD** — always on display/doze brightness without delay
 - **DT2W** — connected xiaomi-dt2w to oplus dt2w settings
 - **Other Touch** — game, active, aim, expert, edge filter, tap, tolerance — via `persist.sys.kv*` props (`0` = off, `1` = on)
